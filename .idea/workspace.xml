@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad2b6bab-c3e5-4b8e-8b35-6a09b67ce29b" name="Default Changelist" comment="" />
+    <list default="true" id="ad2b6bab-c3e5-4b8e-8b35-6a09b67ce29b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mfscrm/db.sqlite3" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +188,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35345513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
